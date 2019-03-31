@@ -1,4 +1,4 @@
-# TvMazeScraper (.NET Core 2)
+# TvMaze Scraper, Data store and API (.NET Core 2)
 
 The TVMaze database provides a public REST API: http://www.tvmaze.com/api
 
