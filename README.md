@@ -6,7 +6,7 @@ The API requires no authentication but it is rate limited.
 
 The application in this repo does the following:
 
-1. scrapes the TVMaze API for show and cast information.
+1. scrapes the TVMaze API for show and cast information while adhering to the rate limit.
 2. persists the data in storage (MS SQL).
 3. provides the scraped data using a REST API.
 
