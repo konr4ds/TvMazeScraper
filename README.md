@@ -8,7 +8,7 @@ The application in this repo does the following:
 
 1. scrapes the TVMaze API for show and cast information while adhering to the rate limit.
 2. persists the data in storage (MS SQL).
-3. provides the scraped data using a REST API.
+3. provides the scraped data using a REST API. (Uses Swagger docummentation and is client friendly. Paging info in response header)
 
 REST API satisfies the following business requirements:
 
