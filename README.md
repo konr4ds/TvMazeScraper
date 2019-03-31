@@ -13,3 +13,5 @@ REST API satisfies the following business requirements:
 
 It should provide a paginated list of all tv shows containing the id of the TV show and a list of
 all the cast that are playing in that TV show (cast must be ordered by birthday descending).
+
+To run sthe solution locally in VS, you need to have a local MS SQL database. Set the connection string in all projects (appsettings.json)
