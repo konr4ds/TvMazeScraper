@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>tvmaze.api</name>
+    </assembly>
+    <members>
+        <member name="T:tvmaze.api.Controllers.ShowsController">
+            <summary>
+            End-point for Show data.
+            </summary>
+        </member>
+        <member name="M:tvmaze.api.Controllers.ShowsController.#ctor(tvmaze.data.IDataStore)">
+            <summary>
+            C'tor for ShowsController
+            </summary>
+            <param name="dataStore"></param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:tvmaze.api.Controllers.ShowsController.Get(System.String,System.Int32,System.Int32)" -->
+    </members>
+</doc>
